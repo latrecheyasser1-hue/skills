@@ -1,0 +1,7 @@
+{
+  "browser_ready": true,
+  "plugin_version": "2.6.0",
+  "python": "3.13",
+  "requirements_sha256": "0126e185e1bab02a47f22f165b4cd9493dffcfbe0dd4bfdcf82a17f5dff75338",
+  "runtime_schema": 1
+}
